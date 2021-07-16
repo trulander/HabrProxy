@@ -1,0 +1,17 @@
+{
+    "name": "habrahabr-proxy/app",
+    "autoload": {
+        "psr-4": {
+            "HabrProxy\\": "src"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander",
+            "email": "trulander@mail.ru"
+        }
+    ],
+    "require": {
+        "imangazaliev/didom": "^1.16"
+    }
+}
